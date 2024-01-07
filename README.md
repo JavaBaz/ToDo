@@ -30,7 +30,7 @@ Below, you'll find a list of tasks and objectives I aim to achieve in the near f
     - [ ] push README.mf file
 
 - [ ] [**Vardast**](https://github.com/JavaBaz/Vardast)
-    - [ ] push initial commit
+    - [x] push initial commit
     - [ ] push README.mf file
     - [ ] improve UI
 
